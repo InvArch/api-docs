@@ -137,7 +137,7 @@ export class Navigation extends LitElement {
       <div class="navigation">
         <div class="toolbar">
           <a href="${chain.toString()}">
-            <img src="assets/img/logo/basilisk.svg" />
+            <img src="assets/img/logo/tinkernet.svg" />
           </a>
           <div>
             <span class="label">${this.data.chain} API</span>
