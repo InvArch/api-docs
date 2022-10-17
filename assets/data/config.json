@@ -1,0 +1,5 @@
+{
+  "chains": [
+    {"name": "Tinkernet", "rpc": "wss://invarch-tinkernet.api.onfinality.io/public-ws"}
+  ]
+}
