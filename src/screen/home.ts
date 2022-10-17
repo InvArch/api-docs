@@ -62,7 +62,7 @@ export class Home extends LitElement implements AfterEnterObserver {
       if (chain) {
         changeApi(chain, opts);
       } else {
-        window.location.href = 'Basilisk';
+        window.location.href = 'Tinkernet';
       }
     });
   }
